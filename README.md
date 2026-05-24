@@ -40,13 +40,11 @@ Aspiring Full Stack Developer | MERN Stack Learner
 
 ---
 
+
 ## 🏆 Top Languages
+
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dharshini-8&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-
-<img height="180em" src="https://streak-stats.demolab.com?user=Dharshini-8&theme=tokyonight" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharshini-8&layout=compact&theme=tokyonight" />
 </p>
 ---
 
