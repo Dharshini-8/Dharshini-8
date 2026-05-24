@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Dharshini</h1>
+<h1 align="center">Hi 👋, I'm Dharshini V T</h1>
 
 <h3 align="center">
 Aspiring Full Stack Developer | MERN Stack Learner
@@ -44,14 +44,23 @@ Aspiring Full Stack Developer | MERN Stack Learner
 ## 🏆 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharshini-8&layout=compact&theme=tokyonight" />
-</p>
----
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharshini-8&layout=compact&theme=tokyonight&hide_border=true" />
+</p
 
 ## 📫 Connect With Me
 
+
+
 <p align="center">
-<a href="https://github.com/Dharshini-8">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-</a>
+  <a href="https://github.com/Dharshini-8">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/dharshini-v-t-54b675293">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:vtdharshini8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
