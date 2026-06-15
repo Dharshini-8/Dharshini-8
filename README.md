@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,c,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,mysql,git,github,vscode" />
 </p>
 
 ### 🌐 Frontend
