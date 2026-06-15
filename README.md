@@ -32,7 +32,6 @@
 ### 💻 Programming
 
 * Java
-* Python 
 * C Programming
 
 ### 🗄️ Database
@@ -49,6 +48,15 @@
 ---
 
 ## 🚀 Featured Projects
+
+### 🔗 Zylink – Smart URL Analytics Platform
+
+🔹 Full-stack URL shortening and analytics platform inspired by Bitly and Dub
+🔹 Users can register, login, create short URLs, generate QR codes, and manage links
+🔹 Provides click tracking, analytics dashboard, custom aliases, and URL redirection
+🔹 Built using React, Vite, Tailwind CSS, Node.js, Express.js, MongoDB Atlas, JWT, and Mongoose
+
+---
 
 ### 🩺 Mediscan – Smart Medicine Scanner
 
@@ -73,6 +81,14 @@
 🔹 Helps identify learning gaps for better performance
 
 ---
+### 🚀 Placement Prep Tracker
+
+🔹 A web-based platform to help students track and manage their placement preparation.
+🔹 Features Aptitude, Coding, Interview, Progress Tracking, Achievements, Daily Goals, Certificates, and Interview Schedule.
+🔹 Provides a centralized dashboard to monitor learning progress and placement activities.
+🔹 Built using HTML, CSS, JavaScript, Git, and GitHub.
+
+
 
 ## 🏆 Achievements & Certifications
 
