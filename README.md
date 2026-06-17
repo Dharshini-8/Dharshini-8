@@ -88,7 +88,7 @@
 🔹 Provides a centralized dashboard to monitor learning progress and placement activities.
 🔹 Built using HTML, CSS, JavaScript, Git, and GitHub.
 
-
+---
 
 ## 🏆 Achievements & Certifications
 
