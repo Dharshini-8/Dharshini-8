@@ -1,80 +1,49 @@
+# 👋 Hi, I'm Dharshini
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Frontend+Developer;Java+Learner;AI+and+Web+Development+Enthusiast;Hackathon+Participant" />
+</p>
+
+---
+
 ## 💫 About Me
 
-🎓 Computer Science Engineering Student at Dr. N.G.P. Institute of Technology
-
-💻 Passionate about Web Development, Artificial Intelligence, and Machine Learning
-
-🚀 Currently improving Java, Frontend Development, Full Stack Development, and Problem Solving
-
-🤖 Exploring Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, and Prompt Engineering
-
+🎓 Computer Science Engineering Student
+💻 Passionate about Web Development and AI Projects
+🚀 Currently improving Java, Frontend Development, and Problem Solving
 🏆 Hackathon Participant & Project Expo Winner
-
-🌱 Building innovative projects that solve real-world problems and enhance user experience
+🌱 Building projects to improve real-world development skills
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind,nodejs,express,java,c,python,mysql,mongodb,git,github,vscode,figma,postman,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,mysql,git,github,vscode" />
 </p>
 
 ### 🌐 Frontend
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Tailwind CSS
-- Responsive Web Design
-
-### ⚙️ Backend
-
-- Node.js
-- Express.js
-- REST APIs
+* HTML5
+* CSS3
+* JavaScript
+* Responsive Web Design
 
 ### 💻 Programming
 
-- Java
-- JavaScript
-- C Programming
-- Python (Basics)
+* Java
+* C Programming
 
-### 🗄️ Databases
+### 🗄️ Database
 
-- MySQL
-- MongoDB Atlas
-- ChromaDB (Vector Database)
-
-### 🤖 AI & Machine Learning
-
-- Artificial Intelligence
-- Machine Learning
-- Large Language Models (LLMs)
-- Prompt Engineering
-- LangChain
-- LangGraph
-- Retrieval-Augmented Generation (RAG)
-- Ollama
-- AI Agents
-- Vector Search & Embeddings
-
-### ☁️ Deployment
-
-- Netlify
-- Vercel
-- Render
+* SQL / MySQL
 
 ### ⚡ Tools & Platforms
 
-- Git & GitHub
-- VS Code
-- Google Colab
-- Postman
-- MongoDB Compass
-- Figma
+* Git & GitHub
+* VS Code
+* Google Colab
+* Ollama
 
 ---
 
@@ -83,134 +52,62 @@
 ### 🔗 Zylink – Smart URL Analytics Platform
 
 🔹 Full-stack URL shortening and analytics platform inspired by Bitly and Dub
-
-🔹 User Authentication, URL Shortening, QR Code Generation, Click Tracking, Analytics Dashboard, Custom Aliases
-
+🔹 Users can register, login, create short URLs, generate QR codes, and manage links
+🔹 Provides click tracking, analytics dashboard, custom aliases, and URL redirection
 🔹 Built using React, Vite, Tailwind CSS, Node.js, Express.js, MongoDB Atlas, JWT, and Mongoose
 
 ---
 
 ### 🩺 Mediscan – Smart Medicine Scanner
 
-🔹 Smart medicine scanner using QR code, barcode, and image recognition
-
-🔹 Displays medicine usage, dosage, precautions, and information instantly
-
+🔹 Developed a smart medicine scanner using QR code, barcode, and image recognition
+🔹 Displays medicine usage, dosage, and precautions instantly
 🔹 Built using HTML, CSS, and JavaScript
 
 ---
 
 ### 🐾 Pet Adoption Website
 
-🔹 Responsive web platform connecting shelters with adopters
-
+🔹 Web platform connecting shelters with adopters
 🔹 Users can browse pets and submit adoption requests
-
-🔹 Built using HTML, CSS, and JavaScript
+🔹 Interactive and responsive frontend design
 
 ---
 
 ### 🎓 AI-Based Education Equity System
 
-🔹 AI-powered education platform with chatbot assistance
-
-🔹 Student, Teacher, and University modules
-
-🔹 Assessment, Progress Tracking, Scholarships, and Learning Resources
+🔹 AI-powered learning and assessment platform
+🔹 Includes chatbot interaction and progress tracking
+🔹 Helps identify learning gaps for better performance
 
 ---
-
 ### 🚀 Placement Prep Tracker
 
-🔹 Web platform to manage placement preparation
-
-🔹 Aptitude, Coding, Interview Preparation, Daily Goals, Progress Tracking, Certificates, and Company Tracker
-
-🔹 Built using HTML, CSS, JavaScript, Git, and GitHub
-
----
-
-### 🤖 Aether AI – Intelligent Research Assistant
-
-🔹 AI-powered research assistant for exploring and organizing information
-
-🔹 Uses LLMs, LangChain, LangGraph, and RAG to generate structured responses
-
-🔹 Designed to simplify research and improve productivity
-
----
-
-### 🌌 DreamSpace – Personal Goal & Productivity Platform
-
-🔹 Productivity platform for planning dreams, goals, and daily activities
-
-🔹 Helps users manage tasks, milestones, journals, and achievements
-
-🔹 Includes AI-assisted guidance with a modern and interactive user interface
+🔹 A web-based platform to help students track and manage their placement preparation.
+🔹 Features Aptitude, Coding, Interview, Progress Tracking, Achievements, Daily Goals, Certificates, and Interview Schedule.
+🔹 Provides a centralized dashboard to monitor learning progress and placement activities.
+🔹 Built using HTML, CSS, JavaScript, Git, and GitHub.
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-🏅 Winner – Project Expo, Dr. N.G.P. Institute of Technology
-
+🏅 Winner – Project Expo, Dr. NGP Institute of Technology
 🏅 Participated in AIM’26 Hackathon
-
 🏅 Participated in NeuraHack 2.0
-
-🏅 24-Hour National Level Hackathon Participant
-
+🏅 24-Hour Hackathon Participant
 🏅 NPTEL – Internet of Things (Elite)
-
 🏅 NPTEL – Cloud Computing
 
 ---
 
-## 💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/Dharshini8/">
-<img src="https://img.shields.io/badge/LeetCode-Dharshini8-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://github.com/Dharshini-8">
-<img src="https://img.shields.io/badge/GitHub-Dharshini--8-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 📊 LeetCode Statistics
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/Dharshini8?theme=dark&font=Poppins&ext=contest"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dharshini-8&theme=tokyonight&no-frame=true&row=2&column=4"/>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dharshini-8&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharshini-8&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharshini-8&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharshini-8&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -218,7 +115,7 @@
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharshini-8&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharshini-8&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -226,21 +123,21 @@
 ## 📫 Connect With Me Through
 
 <p align="center">
-<a href="mailto:vtdharshini8@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:vtdharshini8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/dharshini-v-t-54b675293">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/dharshini-v-t-54b675293">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://github.com/Dharshini-8">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://github.com/Dharshini-8">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-⭐ <b>Building intelligent AI solutions, developing modern web applications, and continuously learning through every project.</b>
+⭐ “Learning continuously and building projects that solve real-world problems.”
 </p>
