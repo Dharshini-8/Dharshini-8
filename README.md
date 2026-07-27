@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dharshini
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Frontend+Developer;Java+Learner;AI+and+Web+Development+Enthusiast;Hackathon+Participant" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Java+Learner;AI+and+Web+Development+Enthusiast;Hackathon+Participant" />
 </p>
 
 ---
@@ -16,20 +16,26 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,python,react,nodejs,mongodb,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,react,nodejs,express,mongodb,mysql,git,github,vscode" />
 </p>
 
 ### 🌐 Frontend
 * HTML5
 * CSS3
 * JavaScript
-* React.js
+* React.js / Next.js
 * Responsive Web Design
+
+### 🖥️ Backend
+* Node.js
+* Express.js
+* FastAPI
+* REST APIs
+* WebSockets
 
 ### 💻 Programming
 * Java
 * C Programming
-* Python
 
 ### 🗄️ Database
 * SQL / MySQL
@@ -40,6 +46,10 @@
 * VS Code
 * Google Colab
 * Ollama
+
+### 🗣️ Languages
+* Tamil – Native
+* English – Professional Working Proficiency
 
 ---
 
