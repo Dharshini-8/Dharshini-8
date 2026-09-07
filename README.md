@@ -374,13 +374,7 @@
 
 # 🏆 Achievements
 
-<p align="center">
 
-🏆 **ACHIEVEMENT HIGHLIGHTS**
-
-</p>
-
----
 
 ### 🥇 Project Expo Winner
 
