@@ -408,17 +408,39 @@ Recognized as a **Project Expo Winner** for developing and presenting an innovat
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dharshini-8&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dharshini-8&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharshini-8&theme=radical&hide_border=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharshini-8&theme=radical&hide_border=true" />
+
+</p>
+
+---
+
+# 🧩 LeetCode Stats
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Dharshini8/">
+
+<img src="https://leetcard.jacoblin.cool/Dharshini8?theme=dark&font=baloo2&ext=heatmap" />
+
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Dharshini8/">
+<img src="https://img.shields.io/badge/LeetCode-Dharshini8-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 </p>
 
