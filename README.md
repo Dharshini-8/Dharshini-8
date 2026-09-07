@@ -19,7 +19,7 @@
 </a>
 
 <a href="mailto:vtdharshini8@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-E11D48?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-vtdharshini8%40gmail.com-E11D48?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -37,6 +37,8 @@
 🤖 Interested in building **AI-powered and real-world applications**
 
 🏆 **Project Expo Winner & Hackathon Participant**
+
+💼 Gaining practical exposure through **Software Development Internship Experience**
 
 🌱 Constantly learning, experimenting and transforming ideas into working projects.
 
@@ -117,9 +119,7 @@
 
 <br>
 
-⬇️
-
-<br>
+<p align="center">⬇️</p>
 
 ---
 
@@ -155,9 +155,7 @@
 
 <br>
 
-⬇️
-
-<br>
+<p align="center">⬇️</p>
 
 ---
 
@@ -195,9 +193,7 @@
 
 <br>
 
-⬇️
-
-<br>
+<p align="center">⬇️</p>
 
 ---
 
@@ -234,9 +230,7 @@
 
 <br>
 
-⬇️
-
-<br>
+<p align="center">⬇️</p>
 
 ---
 
@@ -271,9 +265,7 @@
 
 <br>
 
-⬇️
-
-<br>
+<p align="center">⬇️</p>
 
 ---
 
@@ -310,6 +302,48 @@
 
 ---
 
+# 💼 From Learning to Industry
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,50:14B8A6,100:2DD4BF&height=90&text=INTERNSHIP%20EXPERIENCE&fontSize=28&fontColor=FFFFFF&animation=fadeIn"/>
+</p>
+
+## 🏢 NXTLogic Software Solutions
+
+### 💻 Software Development Intern
+
+> 🚀 **Turning academic knowledge into practical industry experience.**
+
+🔹 Gained hands-on exposure to real-world software development practices
+🔹 Worked on practical development tasks and application-oriented projects
+🔹 Strengthened programming and problem-solving skills through industry-based work
+🔹 Learned professional development workflows and collaborative practices
+🔹 Improved understanding of building, testing and refining software solutions
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Industry%20Experience-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20Development-14B8A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Professional%20Growth-2DD4BF?style=for-the-badge"/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+**LEARN**
+⬇️
+**APPLY**
+⬇️
+**BUILD**
+⬇️
+**GROW**
+
+</p>
+
+---
+
 # 🏆 Achievements
 
 <p align="center">
@@ -322,14 +356,14 @@
 
 ### 🏆 Hackathons
 
-* AIM'26 Hackathon Participant
-* NeuraHack 2.0 Participant
-* 24-Hour Hackathon Participant
+* 🏅 AIM'26 Hackathon Participant
+* 🚀 NeuraHack 2.0 Participant
+* ⚡ 24-Hour Hackathon Participant
 
 ### 📜 Certifications
 
-* NPTEL – Internet of Things — **Elite**
-* NPTEL – Cloud Computing
+* 🎓 NPTEL – Internet of Things — **Elite**
+* ☁️ NPTEL – Cloud Computing
 
 ---
 
@@ -393,23 +427,33 @@
 
 ### 💭 THINK
 
-<br>⬇️<br>
+<br>
+⬇️
+<br>
 
 ### 📚 LEARN
 
-<br>⬇️<br>
+<br>
+⬇️
+<br>
 
 ### 💻 BUILD
 
-<br>⬇️<br>
+<br>
+⬇️
+<br>
 
 ### 🧪 EXPERIMENT
 
-<br>⬇️<br>
+<br>
+⬇️
+<br>
 
 ### 🚀 DEPLOY
 
-<br>⬇️<br>
+<br>
+⬇️
+<br>
 
 ### 📈 IMPROVE
 
@@ -422,15 +466,15 @@
 <p align="center">
 
 <a href="mailto:vtdharshini8@gmail.com">
-<img src="https://img.shields.io/badge/Email-E11D48?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-vtdharshini8%40gmail.com-E11D48?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/dharshini-v-t-54b675293">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Dharshini%20V%20T-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dharshini-8">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Dharshini--8-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
