@@ -83,7 +83,9 @@
 # 🚀 Things I've Built
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:DB2777,100:F97316&height=100&text=IDEAS%20%E2%86%92%20CODE%20%E2%86%92%20IMPACT&fontSize=28&fontColor=FFFFFF&animation=fadeIn"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:DB2777,100:F97316&height=100&text=IDEAS%20%E2%86%92%20CODE%20%E2%86%92%20IMPACT&fontSize=28&fontColor=FFFFFF&animation=fadeIn"/>
+
 </p>
 
 ---
@@ -94,27 +96,31 @@
 
 > An AI-powered learning platform designed to identify learning gaps and provide personalized educational support.
 
-🔹 AI-powered learning and assessment platform
-🔹 Intelligent chatbot interaction
-🔹 Student progress monitoring
-🔹 Learning-gap identification
-🔹 Personalized learning assistance
-🔹 Designed to support equitable learning opportunities
+🔹 AI-powered learning and assessment platform  
+🔹 Intelligent chatbot interaction  
+🔹 Student progress monitoring  
+🔹 Learning-gap identification  
+🔹 Personalized learning assistance  
+🔹 Designed to support equitable learning opportunities  
 
-**🧠 Technologies**
+### 🧠 Technologies
 
 `AI` `TypeScript` `Web Development`
 
 <p align="center">
-  <a href="https://github.com/Dharshini-8/Ai-Based-Education-Equity-System">
-    <img src="https://img.shields.io/badge/🔗%20VIEW%20REPOSITORY-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<a href="https://github.com/Dharshini-8/Ai-Based-Education-Equity-System">
+<img src="https://img.shields.io/badge/🔗%20VIEW%20REPOSITORY-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI--Powered-8B5CF6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Education--Equity-C026D3?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Smart--Learning-DB2777?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/AI--Powered-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Education--Equity-C026D3?style=flat-square"/>
+<img src="https://img.shields.io/badge/Smart--Learning-DB2777?style=flat-square"/>
+
 </p>
 
 <br>
@@ -129,28 +135,32 @@
 
 > A smart web application that helps users quickly access important medicine information through multiple recognition methods.
 
-🔹 QR code scanning
-🔹 Barcode recognition
-🔹 Image-based medicine identification
-🔹 Medicine usage information
-🔹 Dosage information
-🔹 Precaution details
-🔹 Simple and responsive interface
+🔹 QR code scanning  
+🔹 Barcode recognition  
+🔹 Image-based medicine identification  
+🔹 Medicine usage information  
+🔹 Dosage information  
+🔹 Precaution details  
+🔹 Simple and responsive interface  
 
-**🧠 Technologies**
+### 🧠 Technologies
 
 `HTML` `CSS` `JavaScript`
 
 <p align="center">
-  <a href="https://github.com/Dharshini-8/Mediscan">
-    <img src="https://img.shields.io/badge/🔗%20VIEW%20REPOSITORY-10B981?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<a href="https://github.com/Dharshini-8/Mediscan">
+<img src="https://img.shields.io/badge/🔗%20VIEW%20REPOSITORY-10B981?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Healthcare-10B981?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Scanner-059669?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Web%20App-14B8A6?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Healthcare-10B981?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scanner-059669?style=flat-square"/>
+<img src="https://img.shields.io/badge/Web%20App-14B8A6?style=flat-square"/>
+
 </p>
 
 <br>
@@ -165,30 +175,34 @@
 
 > An intelligent research system where multiple AI agents collaborate to research, summarize and generate useful reports.
 
-🔹 Multi-agent AI architecture
-🔹 Research automation
-🔹 Intelligent summarization
-🔹 Automated report generation
-🔹 FastAPI backend
-🔹 Real-time WebSocket communication
-🔹 Live task-progress streaming
-🔹 Clerk authentication
-🔹 React-based interface
+🔹 Multi-agent AI architecture  
+🔹 Research automation  
+🔹 Intelligent summarization  
+🔹 Automated report generation  
+🔹 FastAPI backend  
+🔹 Real-time WebSocket communication  
+🔹 Live task-progress streaming  
+🔹 Clerk authentication  
+🔹 React-based interface  
 
-**🧠 Technologies**
+### 🧠 Technologies
 
 `Python` `FastAPI` `WebSockets` `React.js` `Clerk`
 
 <p align="center">
-  <a href="https://github.com/Dharshini-8/Aether-Ai">
-    <img src="https://img.shields.io/badge/🔗%20VIEW%20REPOSITORY-F59E0B?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<a href="https://github.com/Dharshini-8/Aether-Ai">
+<img src="https://img.shields.io/badge/🔗%20VIEW%20REPOSITORY-F59E0B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Multi--Agent-F59E0B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AI%20Research-EF4444?style=flat-square"/>
-  <img src="https://img.shields.io/badge/FastAPI-F97316?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Multi--Agent-F59E0B?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20Research-EF4444?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-F97316?style=flat-square"/>
+
 </p>
 
 <br>
@@ -203,29 +217,33 @@
 
 > A modern URL-shortening platform that combines link management with analytics and QR-code generation.
 
-🔹 User registration and login
-🔹 Short URL creation
-🔹 Custom aliases
-🔹 QR code generation
-🔹 Click tracking
-🔹 Analytics dashboard
-🔹 URL redirection
-🔹 Link management
+🔹 User registration and login  
+🔹 Short URL creation  
+🔹 Custom aliases  
+🔹 QR code generation  
+🔹 Click tracking  
+🔹 Analytics dashboard  
+🔹 URL redirection  
+🔹 Link management  
 
-**🧠 Technologies**
+### 🧠 Technologies
 
 `React` `Vite` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `JWT` `Mongoose`
 
 <p align="center">
-  <a href="https://github.com/Dharshini-8/Zylink">
-    <img src="https://img.shields.io/badge/🔗%20VIEW%20REPOSITORY-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<a href="https://github.com/Dharshini-8/Zylink">
+<img src="https://img.shields.io/badge/🔗%20VIEW%20REPOSITORY-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Analytics-06B6D4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Full--Stack-0891B2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MongoDB-16A34A?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Analytics-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full--Stack-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/MongoDB-16A34A?style=flat-square"/>
+
 </p>
 
 <br>
@@ -240,27 +258,31 @@
 
 > A responsive platform designed to connect shelters and potential pet adopters.
 
-🔹 Browse available pets
-🔹 Pet profiles and information
-🔹 Adoption requests
-🔹 Shelter-adopter connection
-🔹 Interactive interface
-🔹 Responsive web design
+🔹 Browse available pets  
+🔹 Pet profiles and information  
+🔹 Adoption requests  
+🔹 Shelter-adopter connection  
+🔹 Interactive interface  
+🔹 Responsive web design  
 
-**🧠 Technologies**
+### 🧠 Technologies
 
 `HTML` `CSS` `JavaScript`
 
 <p align="center">
-  <a href="https://github.com/Dharshini-8/Pet-Adoption-Website">
-    <img src="https://img.shields.io/badge/🔗%20VIEW%20REPOSITORY-EF4444?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<a href="https://github.com/Dharshini-8/Pet-Adoption-Website">
+<img src="https://img.shields.io/badge/🔗%20VIEW%20REPOSITORY-EF4444?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pet%20Care-F43F5E?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Adoption-E11D48?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Responsive-Web-F97316?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Pet%20Care-F43F5E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Adoption-E11D48?style=flat-square"/>
+<img src="https://img.shields.io/badge/Responsive-Web-F97316?style=flat-square"/>
+
 </p>
 
 <br>
@@ -275,29 +297,33 @@
 
 > A centralized platform that helps students organize, track and improve their placement preparation journey.
 
-🔹 Aptitude preparation
-🔹 Coding practice
-🔹 Interview preparation
-🔹 Daily goals
-🔹 Progress tracking
-🔹 Achievements
-🔹 Certificate management
-🔹 Interview scheduling
+🔹 Aptitude preparation  
+🔹 Coding practice  
+🔹 Interview preparation  
+🔹 Daily goals  
+🔹 Progress tracking  
+🔹 Achievements  
+🔹 Certificate management  
+🔹 Interview scheduling  
 
-**🧠 Technologies**
+### 🧠 Technologies
 
 `HTML` `CSS` `JavaScript` `Git` `GitHub`
 
 <p align="center">
-  <a href="https://github.com/Dharshini-8/placement-prep-tracker">
-    <img src="https://img.shields.io/badge/🔗%20VIEW%20REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<a href="https://github.com/Dharshini-8/placement-prep-tracker">
+<img src="https://img.shields.io/badge/🔗%20VIEW%20REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Career-7C3AED?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Placement-9333EA?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Productivity-A855F7?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Career-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Placement-9333EA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Productivity-A855F7?style=flat-square"/>
+
 </p>
 
 ---
@@ -305,7 +331,9 @@
 # 💼 From Learning to Industry
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,50:14B8A6,100:2DD4BF&height=90&text=INTERNSHIP%20EXPERIENCE&fontSize=28&fontColor=FFFFFF&animation=fadeIn"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,50:14B8A6,100:2DD4BF&height=90&text=INTERNSHIP%20EXPERIENCE&fontSize=28&fontColor=FFFFFF&animation=fadeIn"/>
+
 </p>
 
 ## 🏢 NXTLogic Software Solutions
@@ -314,11 +342,11 @@
 
 > 🚀 **Turning academic knowledge into practical industry experience.**
 
-🔹 Gained hands-on exposure to real-world software development practices
-🔹 Worked on practical development tasks and application-oriented projects
-🔹 Strengthened programming and problem-solving skills through industry-based work
-🔹 Learned professional development workflows and collaborative practices
-🔹 Improved understanding of building, testing and refining software solutions
+🔹 Gained hands-on exposure to real-world software development practices  
+🔹 Worked on practical development tasks and application-oriented projects  
+🔹 Strengthened programming and problem-solving skills through industry-based work  
+🔹 Learned professional development workflows and collaborative practices  
+🔹 Improved understanding of building, testing and refining software solutions  
 
 <p align="center">
 
@@ -332,13 +360,13 @@
 
 <p align="center">
 
-**LEARN**
+### LEARN
 ⬇️
-**APPLY**
+### APPLY
 ⬇️
-**BUILD**
+### BUILD
 ⬇️
-**GROW**
+### GROW
 
 </p>
 
@@ -347,42 +375,51 @@
 # 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dharshini-8&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+
+🏆 **ACHIEVEMENT HIGHLIGHTS**
+
 </p>
+
+---
 
 ### 🥇 Project Expo Winner
 
 **Dr. NGP Institute of Technology**
 
-### 🏆 Hackathons
+Recognized as a **Project Expo Winner** for developing and presenting an innovative project.
 
-* 🏅 AIM'26 Hackathon Participant
-* 🚀 NeuraHack 2.0 Participant
-* ⚡ 24-Hour Hackathon Participant
+<br>
+
+### 🚀 Hackathon Experience
+
+🏅 **AIM'26 Hackathon** — Participant
+
+🤖 **NeuraHack 2.0** — Participant
+
+⚡ **24-Hour Hackathon** — Participant
+
+<br>
 
 ### 📜 Certifications
 
-* 🎓 NPTEL – Internet of Things — **Elite**
-* ☁️ NPTEL – Cloud Computing
+🎓 **NPTEL – Internet of Things** — Elite
+
+☁️ **NPTEL – Cloud Computing**
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharshini-8&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dharshini-8&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="180"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharshini-8&theme=radical&hide_border=true" height="180"/>
-</p>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharshini-8&theme=radical&hide_border=true" height="180"/>
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharshini-8&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
@@ -427,33 +464,23 @@
 
 ### 💭 THINK
 
-<br>
 ⬇️
-<br>
 
 ### 📚 LEARN
 
-<br>
 ⬇️
-<br>
 
 ### 💻 BUILD
 
-<br>
 ⬇️
-<br>
 
 ### 🧪 EXPERIMENT
 
-<br>
 ⬇️
-<br>
 
 ### 🚀 DEPLOY
 
-<br>
 ⬇️
-<br>
 
 ### 📈 IMPROVE
 
@@ -496,5 +523,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dharshini-8&label=PROFILE%20VIEWS&color=EC4899&style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=Dharshini-8&label=PROFILE%20VIEWS&color=EC4899&style=for-the-badge"/>
+
 </p>
